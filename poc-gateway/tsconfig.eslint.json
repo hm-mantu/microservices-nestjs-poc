@@ -1,0 +1,6 @@
+{
+    "extends": "./tsconfig.json",
+    "include": ["src", "tasks", "src/frontend/tsconfig.json"],
+    "exclude": ["src/backend/dist", "src/frontend/dist"]
+  }
+  
